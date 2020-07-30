@@ -1,7 +1,6 @@
 tokyo
 osaka
-
 kyoto
-hakata
-sendai
+hukuoka
+miyagi
 fukushima
